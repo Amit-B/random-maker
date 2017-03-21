@@ -1,0 +1,9 @@
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\RandomMaker\RandomMaker\bin\Debug\RandomMaker.exe.config
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\RandomMaker\RandomMaker\bin\Debug\RandomMaker.exe
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\RandomMaker\RandomMaker\bin\Debug\RandomMaker.pdb
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\RandomMaker\RandomMaker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\RandomMaker\RandomMaker\obj\x86\Debug\RandomMaker.AddSome.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\RandomMaker\RandomMaker\obj\x86\Debug\RandomMaker.Main.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\RandomMaker\RandomMaker\obj\x86\Debug\RandomMaker.Properties.Resources.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\RandomMaker\RandomMaker\obj\x86\Debug\RandomMaker.exe
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\RandomMaker\RandomMaker\obj\x86\Debug\RandomMaker.pdb
